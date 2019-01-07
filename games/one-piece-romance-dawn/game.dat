@@ -1,0 +1,9 @@
+title = "One Piece: Romance Dawn"
+description = "One Piece: Romance Dawn is a role-playing video game based on the One Piece manga and anime series.\nThe game covers the first half of the series from Luffy's early adventures in the East Blue to the battle at Marineford."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000116A00"
+region = "usa"
+release_date = "2014-02-11"
